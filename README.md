@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Senior Computer Science Student<br>💬 Currently Enrolled in a Full Stack Software Engineering Bootcamp<br>⚡ Always Open to New Opportunities
+👨‍🎓 Senior Computer Science Student<br>🖥️ Currently enrolled in a Full-Stack Software Engineering Bootcamp<br>⚡ Always open to new opportunities
 
 
 ## 🌐 Socials:
